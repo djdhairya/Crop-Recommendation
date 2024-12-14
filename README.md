@@ -37,6 +37,9 @@ The system requires the following inputs to provide a recommendation:
 
 The Random Forest Classification model achieves an accuracy of **99.32%**, making it a reliable tool for crop prediction.
 
+![Screenshot 2024-12-14 113519](https://github.com/user-attachments/assets/2f83b654-4890-4eb5-9bb6-3cfdf13e52c2)
+
+
 ## Tree Map Representation
 
 Below is the tree map of the Random Forest model, which visualizes how decisions are made based on input parameters.
@@ -74,3 +77,6 @@ Crop Recommendation/
 ## Conclusion
 
 This Crop Recommendation System is a powerful tool for enhancing agricultural decision-making. By leveraging data-driven insights, it empowers farmers to maximize yield and ensure sustainable practices.
+![Screenshot 2024-12-14 113852](https://github.com/user-attachments/assets/0a859cf1-961f-453f-941c-75c64cc114b1)
+![Screenshot 2024-12-14 113912](https://github.com/user-attachments/assets/9f35639d-3247-4be5-8659-24109586f7e5)
+
